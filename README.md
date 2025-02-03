@@ -1,6 +1,6 @@
 ![MasterHead](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)
 <h1 align="center">Hi 👋, I'm Smit Nikumbh</h1>
-<h3 align="center">A Passionate Android Web & Full Stack Developer</h3>
+<h3 align="center">A Passionate Android | Web | Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp">
 
 - 🔭 I’m currently working on **Tap&Taste Digital Hotel System**
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=7702641980111499552](https://play.google.com/store/apps/dev?id=7702641980111499552)
 
-- 💬 Ask me about **Android|MERN Stack|AWS and DevOps**
+- 💬 Ask me about **Android | MERN Stack | AWS and DevOps**
 
 - 📫 How to reach me **official.smit.niks@gmail.com**
 

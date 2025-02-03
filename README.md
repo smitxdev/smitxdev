@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Smit Nikumbh</h1>
 <h3 align="center">A Passionate Android Web & Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp">
-- 🔭 I’m currently working on **Tap&Taste Digital Hotel system**
+
+- 🔭 I’m currently working on **Tap&Taste Digital Hotel System**
 
 - 🌱 I’m currently learning **Flutter & Dart Programming**
 

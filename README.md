@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=7702641980111499552](https://play.google.com/store/apps/dev?id=7702641980111499552)
 
-- 💬 Ask me about **Android, MERN Stack and Python**
+- 💬 Ask me about **Android|MERN Stack|AWS and DevOps**
 
 - 📫 How to reach me **official.smit.niks@gmail.com**
 

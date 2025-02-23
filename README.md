@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="C0XOq_GG0k4x621W8k54xl6e8fnwaFVR1UymONe067M" />
 ![MasterHead](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)
 <h1 align="center">Hi 👋, I'm Smit Nikumbh</h1>
 <h3 align="center">A Passionate Android | Web | Full-Stack Developer</h3>

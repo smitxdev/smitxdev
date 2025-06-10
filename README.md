@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Android | Web | Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp">
 
-- 🔭 I’m currently working on **Tap&Dine Digital Hotel System Product**
+- 🔭 I’m currently working on **Tap&Dine Digital Hotel System**
 
 - 🌱 I’m currently learning **Flutter & Dart Programming**
 
